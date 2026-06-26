@@ -27,6 +27,7 @@ A responsive Spotify-inspired web interface built using HTML, CSS, and Bootstrap
 
 ## 📂 Folder Structure
 
+```text
 Spotify-Clone/
 │── assets/
 │── images/
@@ -36,6 +37,7 @@ Spotify-Clone/
 │── index.html
 │── style.css
 │── README.md
+```
 
 ## 🎯 Learning Outcome
 
